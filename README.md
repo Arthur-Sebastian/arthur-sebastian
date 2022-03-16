@@ -1,16 +1,16 @@
-### Hi there 👋
+### ❓ Is there more pens or tyres in the world?
 
-<!--
-**Arthur-Sebastian/arthur-sebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Arthur. This weird bit at the beggining is mostly meant to draw attention :trollface:, but feel free to try figuring the answer out!
 
-Here are some ideas to get you started:
+### 📘 What do i do?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++ OOP
+- C Funtional Programming
+- JavaScript with Node.js
+- HTML and CSS
+- Bash scripting
+
+I would like to learn to use React or Angular and build something using either of those frameworks.
+
+> ⚠️ **SEE ALSO:**<br>
+> Check out the Quikweb repository on my profile!
