@@ -5,7 +5,7 @@ Hi there, I'm Arthur. This weird bit at the beggining is mostly meant to draw at
 ### 📘 What do i do?
 
 - C++ OOP
-- C Funtional Programming
+- C Functional Programming
 - JavaScript with Node.js
 - HTML and CSS
 - Bash scripting
