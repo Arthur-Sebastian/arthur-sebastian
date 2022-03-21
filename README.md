@@ -1,4 +1,4 @@
-### ❓ Is there more pens or tyres in the world?
+### ❓ Are there more pens or tyres in the world?
 
 Hi there, I'm Arthur. This weird bit at the beggining is mostly meant to draw attention :trollface:, but feel free to try figuring the answer out!
 
