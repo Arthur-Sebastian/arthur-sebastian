@@ -13,7 +13,7 @@ Webdev tech stack:
 
 Software stack:
 - C++ object-oriented programming
-- C functional programming
+- C programming
 - Bash scripting
 
 Currently learning advanced React usage.
