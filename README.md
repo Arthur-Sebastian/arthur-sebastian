@@ -1,22 +1,7 @@
-### ❓ Are there more pens or tyres in the world?
+### In case anyone is curious...
 
-Hi there, I'm Arthur, a penguin-based system enthusiast. The weird bit at the beggining is mostly meant to draw attention :trollface:, but feel free to try and figure the answer out!
+Hi there, I'm Arthur - an enthusiast of programming, embedded devices and IoT. I also enjoy graphic design and web development. Feel free to browse my various repositories!
 
-### 📘 What can i do?
-
-Webdev tech stack:
-- React with JSX/Babel
-- CSS with Styled-Components 
-- Node.js, NPM
-- Webpack
-- JavaScript, HTML, CSS
-
-Software stack:
-- C++ object-oriented programming
-- C programming
-- Bash scripting
-
-Currently learning advanced React usage.
-
-> ⚠️ **SEE ALSO:**<br>
-> Check out the Quikweb repository on my profile!
+> ⚠️ **PLEASE ALSO VISIT MY WEBSITE:**<br>
+> More information about my projects can be found at <br>
+> [arthur-sebastian.github.io](https://arthur-sebastian.github.io)
